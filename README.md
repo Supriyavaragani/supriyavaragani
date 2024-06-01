@@ -1,4 +1,5 @@
-## Hi there 👋
+#couse assignments
+I am undergoing a Course To complete Capstone Project Assigned by Tech Mahindra.
 
 <!--
 **Supriyavaragani/supriyavaragani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
