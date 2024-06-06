@@ -11,7 +11,7 @@ public static void main(String args[]) throws SQLException {
 	    Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/techm?useSSL=false", "root", "Sravan@18");
 		Statement stmt= con.createStatement();
-			String str="Dileep";
+			String str="Supriya";
 			int s = stmt.executeUpdate("delete from customers where customername='" + str + "'");
 			System.out.println("Number of rows affected is" + s);
 	    }
